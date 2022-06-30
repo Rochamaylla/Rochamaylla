@@ -1,7 +1,10 @@
 
+Sou estudant
+Estou interessada em aprender mais sobre isso
+Quero ser veterinária
+@rocha.maylla@escola.pr.gov
 
-
-- 👋 Hi, I’m @Rochamaylla
+ 👋 Hi, I’m @Rochamaylla
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
